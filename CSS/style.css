@@ -22,12 +22,7 @@ figure:hover figurecaption{
   background-color: rgba(0, 0, 0, 0.822);
 }
 
-.model img{
-    width: 500px ;
-    height: 400px;
-    object-fit: cover;
-  
-}
+
 
 .model i{
     font-size: 30px ;
@@ -53,4 +48,15 @@ figure:hover figurecaption{
 
 .model .fa-arrow-right{
     right: 10px;
+}
+main .main img{
+    width: 500px !important;
+    height: 250px !important;
+    object-fit: cover;
+}
+.model img{
+    width: 500px ;
+    height: 400px;
+    object-fit: cover;
+  
 }
